@@ -5,7 +5,7 @@ A working demo built in response to **Erie County, NY RFP #2026-052VF: Juvenile 
 > All people, providers and records are **synthetic**. Case data never leaves the browser.
 
 **Live demo:** https://concourse-deliverable-personal-c635.vercel.app
-**Walkthrough video (Loom):** _add link_
+**Walkthrough video (Loom):** https://www.loom.com/share/7175756ca38d46dab321c21544f65ac7
 
 **Where to look first**
 - [`PLAN.md`](PLAN.md): how the RFP was chosen and scoped
